@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCM>
+    <Question>
+        <Contenu>Comment on affiche un texte en C ?</Contenu>
+        <Proposition>
+            <texte>System.out.println("texte")</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>printf("texte\n")</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>print("texte")</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>std::cout "texte"</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>b</Reponse>
+    </Question>
+
+    <Question>
+        <Contenu>Comment s'appelle le langage étudié dans le cours ?</Contenu>
+        <Proposition>
+            <texte>C</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Python</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>java</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Le néerlandais</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>a</Reponse>
+    </Question>
+
+    <Question>
+        <Contenu>On compile un fichier .c avec quelle commande ?</Contenu>
+        <Proposition>
+            <texte>python3</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>java</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>gcc</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>sudo rm -rf</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>c</Reponse>
+    </Question>
+</QCM>

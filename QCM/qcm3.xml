@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCM>
+    <Question>
+        <Contenu>On étudie quoi ?</Contenu>
+        <Proposition>
+            <texte>Le PDO en php</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Les pointeurs en C</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Les classes en java</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Le prétérit en anglais</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>a</Reponse>
+    </Question>
+
+    <Question>
+        <Contenu>On fait comment pour préparer une requête ?</Contenu>
+        <Proposition>
+            <texte>prepare()</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>bind()</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>execute()</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>lezgo()</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>a</Reponse>
+    </Question>
+
+    <Question>
+        <Contenu>C'est en quel langage qu'on fait le PDO ?</Contenu>
+        <Proposition>
+            <texte>Java</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>OCaml</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Prolog</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>PHP</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>d</Reponse>
+    </Question>
+
+    <Question>
+        <Contenu>On travaille sur quoi avec le PDO ?</Contenu>
+        <Proposition>
+            <texte>Les fichiers text</texte>
+            <nom>a</nom>
+        </Proposition>
+        <Proposition>
+            <texte>La BDD</texte>
+            <nom>b</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Les objets</texte>
+            <nom>c</nom>
+        </Proposition>
+        <Proposition>
+            <texte>Les variables</texte>
+            <nom>d</nom>
+        </Proposition>
+        <Reponse>b</Reponse>
+    </Question>
+</QCM>
